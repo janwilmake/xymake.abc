@@ -3,6 +3,6 @@
   "dev": { "port": 3000 },
   "compatibility_date": "2025-01-30",
   "assets": { "directory": "./" },
-  "main": "./index.js",
+  "main": "./readme.js",
   "routes": [{ "pattern": "abc.xymake.com", "custom_domain": true }]
 }
